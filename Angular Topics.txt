@@ -1,13 +1,4 @@
-https://drive.google.com/drive/folders/1N9UUtFHRe5a8h1vq3iEVEyvXM5sZDRHv?usp=drive_link
 
-Code with antonio - next js projects
-Harkirat singh - motivation
-Prime time - news related to industry
-Josh tried coding - anything new related to next js
-Gaurav sen - system design 
-Hussein Nasser - backend
-Byte byte go - concepts learning
-Hamed bahram - next js
 
 
 For an Angular developer moving from intermediate to advanced level, here are key topics to master:
