@@ -1,0 +1,87 @@
+https://drive.google.com/drive/folders/1N9UUtFHRe5a8h1vq3iEVEyvXM5sZDRHv?usp=drive_link
+
+Code with antonio - next js projects
+Harkirat singh - motivation
+Prime time - news related to industry
+Josh tried coding - anything new related to next js
+Gaurav sen - system design 
+Hussein Nasser - backend
+Byte byte go - concepts learning
+Hamed bahram - next js
+
+
+For an Angular developer moving from intermediate to advanced level, here are key topics to master:
+
+### Core Angular Concepts
+1. **Angular CLI & Workspace Setup**  
+   Familiarity with Angular CLI, workspace configuration, and managing multiple projects in a workspace.
+
+2. **Angular Lifecycle Hooks**  
+   Understanding of component lifecycle hooks (`ngOnInit`, `ngOnDestroy`, etc.) and their practical use cases.
+
+3. **Change Detection Mechanism**  
+   Knowledge of Angular's change detection mechanism, including `Zone.js`, `ngZone`, and ways to optimize performance using strategies like `OnPush`.
+
+4. **Dependency Injection (DI) and Providers**  
+   Mastering DI, hierarchical injectors, tree-shakable providers, and using providedIn (root, module, component-level).
+
+5. **Pipes**  
+   Custom and built-in pipes, async pipes, and using pipes for data transformations, localization, and currency formatting.
+
+6. **Routing and Lazy Loading**  
+   Advanced routing techniques, including lazy loading, route guards, preloading strategies, and handling nested routes.
+
+### Advanced Concepts
+1. **RxJS and Observables**  
+   Strong understanding of RxJS operators (like `mergeMap`, `switchMap`, `forkJoin`, `combineLatest`) and handling async data streams. Using `BehaviorSubject`, `ReplaySubject`, and creating custom observables.
+
+2. **Reactive Forms and Template-Driven Forms**  
+   In-depth knowledge of reactive forms, form control, validators, dynamic forms, custom validators, and handling complex form scenarios.
+
+3. **State Management (NgRx or Akita)**  
+   Understanding of NgRx (Store, Actions, Reducers, Effects, Selectors), or similar libraries like Akita for managing complex application state.
+
+4. **Internationalization (i18n)**  
+   Implementation of Angular’s i18n features for localization, handling multiple languages, and dynamically switching languages.
+
+5. **Unit Testing & End-to-End Testing**  
+   Writing unit tests using Jasmine and Karma, testing components, services, HTTP calls, using TestBed. Familiarity with Protractor or Cypress for end-to-end testing.
+
+6. **Dynamic Component Rendering**  
+   Creating dynamic components at runtime using `ComponentFactoryResolver`, `ng-template`, `ng-container`, and `ViewChild`.
+
+### Performance Optimization
+1. **Lazy Loading and Preloading Strategies**  
+   Optimizing load times using lazy loading, preloading, and `RoutePreloadStrategy` for prioritized routing.
+
+2. **Code Splitting and Bundling**  
+   Using Angular’s CLI to create optimized bundles, managing code splitting, and understanding Webpack for bundle analysis.
+
+3. **Server-Side Rendering (SSR) with Angular Universal**  
+   Setup and configuration of Angular Universal for SSR to improve SEO and initial load performance.
+
+4. **Progressive Web Application (PWA) Setup**  
+   Adding PWA capabilities with service workers, caching strategies, and offline support.
+
+5. **Angular Ivy Renderer**  
+   Deep dive into Angular Ivy, benefits, how it affects application size and performance, and debugging.
+
+### Additional Topics
+1. **Custom Decorators**  
+   Creating and using custom decorators to add reusable metadata to classes, properties, and methods.
+
+2. **Web Workers for Multi-Threading**  
+   Implementing web workers to handle CPU-intensive tasks without blocking the main thread.
+
+3. **Integration with Backend APIs**  
+   Handling HTTP interceptors, JWT authentication, token refresh, and error handling in complex API structures.
+
+4. **GraphQL Integration**  
+   Working with GraphQL, setting up clients (like Apollo), and handling queries, mutations, and subscriptions in Angular.
+
+5. **MonoRepo Patterns and Nx**  
+   Using tools like Nx for monorepo management, especially if working on large-scale applications with shared libraries.
+
+Mastering these topics can significantly enhance an Angular developer’s skills, making them proficient in tackling advanced scenarios in real-world applications.
+
+
